@@ -24,3 +24,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     return 0;
 }
+
+    std::cout << "hlavy nadrazi" << std::endl;
